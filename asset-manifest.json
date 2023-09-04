@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/green-haven/static/css/main.dc9d68a5.css",
-    "main.js": "/green-haven/static/js/main.89686586.js",
-    "static/media/hero-alt.jpg": "/green-haven/static/media/hero-alt.0063fb253e85f0f25ae0.jpg",
-    "index.html": "/green-haven/index.html",
-    "main.dc9d68a5.css.map": "/green-haven/static/css/main.dc9d68a5.css.map",
-    "main.89686586.js.map": "/green-haven/static/js/main.89686586.js.map"
+    "main.css": "/ecomm-firebase/static/css/main.dc9d68a5.css",
+    "main.js": "/ecomm-firebase/static/js/main.ba5665e8.js",
+    "static/media/hero-alt.jpg": "/ecomm-firebase/static/media/hero-alt.0063fb253e85f0f25ae0.jpg",
+    "index.html": "/ecomm-firebase/index.html",
+    "main.dc9d68a5.css.map": "/ecomm-firebase/static/css/main.dc9d68a5.css.map",
+    "main.ba5665e8.js.map": "/ecomm-firebase/static/js/main.ba5665e8.js.map"
   },
   "entrypoints": [
     "static/css/main.dc9d68a5.css",
-    "static/js/main.89686586.js"
+    "static/js/main.ba5665e8.js"
   ]
 }
